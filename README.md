@@ -1,4 +1,4 @@
-<img alt="d-art" src="https://raw.githubusercontent.com/d-suite/art/main/art/art_long@vector.svg" style="height:45px; width: auto;">
+<img alt="d-art" src="https://raw.githubusercontent.com/d-suite/art/main/art/art_long@vector.svg" style="height:36px; width: auto;">
 
 artwork for d-suite organization and services
 
