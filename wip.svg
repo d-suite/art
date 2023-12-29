@@ -1,12 +1,6 @@
 <svg width="21" height="9" viewBox="0 0 21 9" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="21" height="9" fill="url(#paint0_linear_8_223)"/>
+<rect width="21" height="9" fill="#F25858"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M3 2H2V6H3V7H6V6H7V2H6V6H5V2H4V6H3V2Z" fill="white"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M13 2H8V3H10V6H8V7H13V6H11V3H13V2Z" fill="white"/>
 <path fill-rule="evenodd" clip-rule="evenodd" d="M15 2H14V7H15V5H18H19V3H18V2H15ZM18 4V3H15V4H18Z" fill="white"/>
-<defs>
-<linearGradient id="paint0_linear_8_223" x1="10.5" y1="0" x2="10.5" y2="9" gradientUnits="userSpaceOnUse">
-<stop stop-color="#3E3000"/>
-<stop offset="1"/>
-</linearGradient>
-</defs>
 </svg>
